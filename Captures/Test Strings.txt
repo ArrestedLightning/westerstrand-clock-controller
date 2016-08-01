@@ -1,0 +1,8 @@
+02414144310320
+02414155380320
+
+Fetch first program
+02 41 41 57 30 03 20
+
+Fetch next program
+02 41 41 57 4E 03 20
